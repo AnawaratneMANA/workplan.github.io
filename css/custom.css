@@ -1,0 +1,93 @@
+.bg{
+    /* The image used */
+    background-color: #666666;
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.m-t-110 {margin-top: 110px;}
+
+.myh1 {
+    font-family: Lato-Bold;
+    color: white;
+    font-weight: bold;
+    margin-left: -250px;
+}
+
+.myh3 {
+    font-family: Lato-Regular;
+    color: #00ad5f;
+    font-weight: bold;
+    background-color: #222222;
+    border-radius: 25px;
+    background-position: center;
+    margin-left: -250px;
+    padding-left: 10px;
+}
+.mybutton{
+    font-family: Lato-Bold;
+    text-decoration: none;
+    color: #00ad5f;
+}
+
+.tableUnderBorder{
+    padding-left: 20px;
+    font-family: Lato-Bold;
+    color: #a4a4a4;
+}
+.hide-link{
+    pointer-events: none;
+    cursor: default;
+}
+
+.gridViewback {
+    background-color: #BABABA;
+    padding: 20px;
+    border-radius: 40px;
+    font-family: Lato-Bold;
+    font-weight: bold;
+    margin-outside: 5px;
+    text-align: center;
+
+}
+
+.status-completed{
+    background-color: #00ad5f ;
+    color: white;
+    font-weight: bold;
+    border-radius: 40px;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+
+.status-pending{
+    background-color: #ea1e62;
+    color: white;
+    font-weight: bold;
+    border-radius: 40px;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+
+.status-working-on{
+    background-color: #fab52d;
+    color: black;
+    font-weight: bold;
+    border-radius: 40px;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+.body-ul {
+    color: white;
+}
+
+
+
+
+
+
