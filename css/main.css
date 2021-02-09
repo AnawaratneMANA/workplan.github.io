@@ -348,7 +348,7 @@ th, td {
 }
 
 .table100.ver3 th {
-  font-family: "SF Pro Display";
+  font-family: Lato-Bold;
   font-size: 22px;
   font-weight: bold;
   color: #00ad5f;
@@ -358,7 +358,7 @@ th, td {
 }
 
 .table100.ver3 td {
-  font-family: "SF Pro Display";
+  font-family: Lato-Bold;
   font-size: 20px;
   color: #ababab;
   line-height: 1.3;
