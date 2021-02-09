@@ -242,7 +242,7 @@ th, td {
 
 .table100.ver1 th {
   font-family: Lato-Bold;
-  font-size: 18px;
+  font-size: 16px;
   color: #fff;
   line-height: 1.4;
 
@@ -251,7 +251,7 @@ th, td {
 
 .table100.ver1 td {
   font-family: Lato-Regular;
-  font-size: 15px;
+  font-size: 13px;
   color: #808080;
   line-height: 1.4;
 }
