@@ -80,6 +80,16 @@
     margin-left: 10px;
     padding-left: 10px;
 }
+
+.status-not-working{
+    background-color: #1782ef;
+    color: black;
+    font-weight: bold;
+    border-radius: 40px;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+
 .body-ul {
     color: white;
 }
